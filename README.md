@@ -17,12 +17,6 @@ My approach prioritizes clarity, performance, and long-term usability rather tha
 - [Fun Teknoloji](https://funteknoloji.com) - This is the official and main website of Fun Teknoloji.
 - [FunID](https://funteknoloji-hesabim.vercel.app) - Fun Teknoloji is a web application designed to manage user accounts.
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muh5895&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muh5895&theme=dark" alt="GitHub Streak" />
-</p>
-
 🤝 **Connect With Me**
 - [GitHub](https://github.com/muh5895)
 - [LinkedIn](https://www.linkedin.com/in/muh-erbay)
