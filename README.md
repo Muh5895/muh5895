@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <strong>
+    <a href="#tr">🇹🇷 Türkçe</a> | <a href="#en">🇬🇧 English</a>
+  </strong>
+</p>
 
-<!--
-**Muh5895/muh5895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## <a id="tr"></a>👋 Merhaba, ben Muhammed Erbay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Web & Yapay Zeka Geliştiricisi**  
+🧠 **FunAi & FunTech** projelerinin geliştiricisi  
+🛠️ Kullanıcı odaklı, sade ve güçlü yazılımlar üretirim.
+
+---
+
+### 🔧 Uzmanlık Alanlarım
+- Web uygulamaları
+- Yapay zeka tabanlı sistemler
+- Offline çalışan acil durum uygulamaları
+- Açık kaynak projeler
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+```text
+HTML
+CSS
+JavaScript
+React
+Node.js
+Git / GitHub
+AI API entegrasyonları
