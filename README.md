@@ -17,7 +17,7 @@ My approach prioritizes clarity, performance, and long-term usability rather tha
 - [Fun Teknoloji](https://funteknoloji.com) - This is the official and main website of Fun Teknoloji.
 - [FunID](https://funteknoloji-hesabim.vercel.app) - Fun Teknoloji is a web application designed to manage user accounts.
 - [FunLabs AI](https://funlabsai-app.vercel.app) - This is the official and main AI platform of Fun Teknoloji.
-- [FunGuard AI] (https://funguard.vercel.app) - Fun Teknoloji is a security application designed to protect devices and data.
+- [FunGuard AI](https://funguard.vercel.app) - Fun Teknoloji is a security application designed to protect devices and data.
 
 
 🤝 **Connect With Me**
